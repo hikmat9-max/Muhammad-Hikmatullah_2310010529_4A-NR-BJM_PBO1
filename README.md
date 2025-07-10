@@ -162,5 +162,4 @@ try {
 
 Nama: Muhammad Hikmatullah  
 NPM: 2310010529  
-Kelas: 4A Non Reg Banjarmasin  
-
+Kelas: 4A Non Reg Banjarmasin
