@@ -1,0 +1,13 @@
+Mobil ke-1
+Model: ioniq
+Merk: hyundai
+Tahun: 2024
+Harga: Rp970.000.000
+Transmisi: otomatis
+Plat: L
+Tahun Plat: 2024
+Pajak: 6 400000
+Biaya Pajak: Rp400,000
+Jenis: Mobil Biasa
+Bahan Bakar: listrik
+=====================================
